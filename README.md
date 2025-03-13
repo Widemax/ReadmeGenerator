@@ -11,6 +11,7 @@ This project allows you to quickly write a high quality readme without all of th
 - [Usage](#usage)
 - [License](#license)
 - [Questions](#questions)
+- [Walkthrough Video](#Walkthrough Video)
 
 ## Installation
 
@@ -33,3 +34,6 @@ If you have any questions, please contact me with the information below:
 GitHub: [Widemax](https://github.com/Widemax)
 
 Email: Maxim.Korablev04@gmail.com
+
+## Walkthrough Video
+https://youtu.be/z2uKtrXoSK0
